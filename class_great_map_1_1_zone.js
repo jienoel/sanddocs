@@ -1,0 +1,25 @@
+var class_great_map_1_1_zone =
+[
+    [ "Zone", "class_great_map_1_1_zone.html#a2af61a4446c861d90756837ae04b2f44", null ],
+    [ "AddHouseInfo", "class_great_map_1_1_zone.html#a6de1ab864010ad7098e934919f02cd13", null ],
+    [ "Clear", "class_great_map_1_1_zone.html#a4b419bcffe58c0476cf1932acd134395", null ],
+    [ "Contains", "class_great_map_1_1_zone.html#a7a7dc123903ad4449012e6e581ed09a1", null ],
+    [ "Contains", "class_great_map_1_1_zone.html#ad678b7d016c4339b61422c25660773d1", null ],
+    [ "GetHouseInfo", "class_great_map_1_1_zone.html#a74d11eeed9b52402e6e76ddd89f8f3bf", null ],
+    [ "GetHouseInfo", "class_great_map_1_1_zone.html#a0372cf6d48bb979789b0d7494e3308e4", null ],
+    [ "GetHouseInfoByDoorPos", "class_great_map_1_1_zone.html#a04f904b62e5aa34d08cdc902a377cc6f", null ],
+    [ "GetHouseInfoByHouseId", "class_great_map_1_1_zone.html#a2de8383ad0e06d816c3f3c86c88729a1", null ],
+    [ "GetHouseInfoByHouseItemId", "class_great_map_1_1_zone.html#ab6a3452ba88d137e1bc8de20d570e57a", null ],
+    [ "GetHouseInfoByPubPos", "class_great_map_1_1_zone.html#aa6abf66eb86fe188baf38561665aee13", null ],
+    [ "GetHouseStatus", "class_great_map_1_1_zone.html#aa3a4b830ae8c76830233250520dc2b27", null ],
+    [ "GetHouseStatus", "class_great_map_1_1_zone.html#a98c93a481f70d2421f57279d17fd7ea9", null ],
+    [ "OnBlockChange", "class_great_map_1_1_zone.html#ae00796dee431dddaa1fa05667f883ee7", null ],
+    [ "houses", "class_great_map_1_1_zone.html#af195d4c174a6939d4a41ef7b265dad42", null ],
+    [ "invalid", "class_great_map_1_1_zone.html#a1eebec0da70d623ef065998c166fec3d", null ],
+    [ "saleHouseNum", "class_great_map_1_1_zone.html#ac29e072b51b037d454093a52ead2e1f6", null ],
+    [ "busy", "class_great_map_1_1_zone.html#ac928b19370e10e8f7082c557160ffa9f", null ],
+    [ "isBusy", "class_great_map_1_1_zone.html#a88d423437663cfb9c553bcb5717ef77a", null ],
+    [ "pos", "class_great_map_1_1_zone.html#ac967e8b69a3f822ffdfd42052dd60041", null ],
+    [ "rotation", "class_great_map_1_1_zone.html#afaaffd17c0c92baa27a6e7096e8f4857", null ],
+    [ "volumeTransform", "class_great_map_1_1_zone.html#aecaa2b45548ab226302ced56bb65743a", null ]
+];

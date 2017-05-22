@@ -1,0 +1,27 @@
+var class_vox_1_1_chunk_column_save_cell =
+[
+    [ "ChunkColumnSaveCell", "class_vox_1_1_chunk_column_save_cell.html#a279ed75aacfe30f47566a40b929e93d1", null ],
+    [ "ChunkColumnSaveCell", "class_vox_1_1_chunk_column_save_cell.html#af0d8128bec61d9b22ae9d87667e2d57e", null ],
+    [ "Clear", "class_vox_1_1_chunk_column_save_cell.html#a706d8d29bd3654dcbf41d95b87a4bc33", null ],
+    [ "DeSerialize", "class_vox_1_1_chunk_column_save_cell.html#af7f7ed3aff334ea63d9a7f9bb437e984", null ],
+    [ "DeSerialize", "class_vox_1_1_chunk_column_save_cell.html#a038b676ec716fc24ace3124866ca273e", null ],
+    [ "blockdatas", "class_vox_1_1_chunk_column_save_cell.html#ab904017f5be44db105bc25474d1ee521", null ],
+    [ "blockEntities", "class_vox_1_1_chunk_column_save_cell.html#abcaa59597320b89264275d470166409d", null ],
+    [ "blocks", "class_vox_1_1_chunk_column_save_cell.html#aac980591cc83738e6e54f5421e0a1ac6", null ],
+    [ "blockSetCount", "class_vox_1_1_chunk_column_save_cell.html#a38f96a0ef2c628a5b83cd483e2fc9af5", null ],
+    [ "blockUserData", "class_vox_1_1_chunk_column_save_cell.html#a0a1d7bddb7a9e06a422dd9a95c1611f2", null ],
+    [ "blockUserDataCount", "class_vox_1_1_chunk_column_save_cell.html#a7b6bf92822658fe18bf75b6d9973a046", null ],
+    [ "DIRTY", "class_vox_1_1_chunk_column_save_cell.html#ae9ed674d6e07f21e7a8c09c2131a9243", null ],
+    [ "entities", "class_vox_1_1_chunk_column_save_cell.html#a7d5e4a2a0a9bb72fe26669b7756b86c6", null ],
+    [ "flag", "class_vox_1_1_chunk_column_save_cell.html#ae039323b85bb79dbca6ab09763db4873", null ],
+    [ "heightMap", "class_vox_1_1_chunk_column_save_cell.html#a011a0782cd1db23fa7d2c83bf0d36426", null ],
+    [ "INUPLOAD", "class_vox_1_1_chunk_column_save_cell.html#a25feaa87889fc4e349eff5bedd634a73", null ],
+    [ "maxHeight", "class_vox_1_1_chunk_column_save_cell.html#ac47786777c97b0194f83aee5034c219b", null ],
+    [ "minHeight", "class_vox_1_1_chunk_column_save_cell.html#a7285740b2b564be0aa57259833e5efe8", null ],
+    [ "NEEDUPLOAD", "class_vox_1_1_chunk_column_save_cell.html#a70afcfa5ec312a88de1b99d4f24fea50", null ],
+    [ "NEW", "class_vox_1_1_chunk_column_save_cell.html#a647984e0259250867b382f5b9e69c7e7", null ],
+    [ "version", "class_vox_1_1_chunk_column_save_cell.html#a9f3b450129012f351cff0d2761e9fe61", null ],
+    [ "x", "class_vox_1_1_chunk_column_save_cell.html#a508f573cc598c8e776aadddc92ae4250", null ],
+    [ "yIndex", "class_vox_1_1_chunk_column_save_cell.html#a89cc0cadc7f52ec3d487d7b6e7836e32", null ],
+    [ "z", "class_vox_1_1_chunk_column_save_cell.html#a4b7d00e2442595694af73146e98926bd", null ]
+];

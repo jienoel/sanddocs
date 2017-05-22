@@ -1,0 +1,25 @@
+var class_menu_setting =
+[
+    [ "OnAutoLeapChanged", "class_menu_setting.html#ad4c286038a75b444592d38d1b09e57a8", null ],
+    [ "OnClearData", "class_menu_setting.html#a681c22cc272f22418f49f07a90f85134", null ],
+    [ "OnClickLogout", "class_menu_setting.html#a54dd9f4b679fea7d4037dccbdeb92037", null ],
+    [ "OnClickUserCenter", "class_menu_setting.html#abc7ed31ae7a17b6c2b3f0def927dd8be", null ],
+    [ "OnClickVisibleField", "class_menu_setting.html#a335669e3e0133cac172d877d8a70147b", null ],
+    [ "OnQuitClicked", "class_menu_setting.html#a2e9062f82a69d9829921ce0914066624", null ],
+    [ "OnSaveClick", "class_menu_setting.html#a835c797f11c7883f070a0ee6534a658a", null ],
+    [ "OnSetCameraType", "class_menu_setting.html#af1c3d7c9bf8fba483ff81d477682051e", null ],
+    [ "OnSetData", "class_menu_setting.html#ae3f2f15c3e25473ca19dfd4b3ba56850", null ],
+    [ "OnSetTartgetSelectType", "class_menu_setting.html#a451ea90919a71377ee5b63cd9b70ffc7", null ],
+    [ "SetAutoLeap", "class_menu_setting.html#a32702745cb676f0201999bb6a0397186", null ],
+    [ "SetVisibleField", "class_menu_setting.html#a02880ec90031a357ab8e64d9a834789a", null ],
+    [ "debug", "class_menu_setting.html#a3d66891f3bc4f41ae854f80ff1bebda7", null ],
+    [ "mapConfigData", "class_menu_setting.html#a97b326e597c2de16a03f781228c116ce", null ],
+    [ "onAutoLeap", "class_menu_setting.html#ac7403a09e72f9b48ae49828cdf0831b8", null ],
+    [ "onClickLogout", "class_menu_setting.html#a6b3a4da41ecc322e700e2e500a7d6a4d", null ],
+    [ "onClickUserCenter", "class_menu_setting.html#afca8253dfd29e5a5e01ce460072dc390", null ],
+    [ "onQuit", "class_menu_setting.html#a1eaacf2cbdfbba3c64b45b7a4debf16b", null ],
+    [ "onSetVisibleField", "class_menu_setting.html#a981b284bf19e992f645ca12d33f90751", null ],
+    [ "userConfig", "class_menu_setting.html#a76b800790a71f159b7847f533a5e42c1", null ],
+    [ "userData", "class_menu_setting.html#abe0ed05f6961477dcb4fbc5c105e0d03", null ],
+    [ "world", "class_menu_setting.html#a71ab91d2e80d4b52a1ca226804639eb8", null ]
+];
